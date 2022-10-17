@@ -6,6 +6,7 @@
 
 # Mothed
 <p align="center"><img src="https://i.imgur.com/jSgBTTP.jpeg" width="300" height="150" alt="Layer7"></p>
+<p align="center"><img src="https://i.imgur.com/HyEPDgG.jpeg" width="300" height="150" alt="Layer4"></p>
 
 # Cách Vào Tool Bằng Google Cloud 
 * ```git clone https://github.com/ViDucHung2006/VxHSX```
