@@ -8,18 +8,55 @@
 <p align="center"><img src="https://i.imgur.com/jSgBTTP.jpeg" width="300" height="150" alt="Layer7"></p>
 <p align="center"><img src="https://i.imgur.com/HyEPDgG.jpeg" width="300" height="150" alt="Layer4"></p>
 
-# Cách Vào Tool Bằng Google Cloud 
-* ```git clone https://github.com/ViDucHung2006/VxHSX```
-* ```cd VxHSX```
-* ```unzip ddos.zip```
-* ```Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH```
-* ```sh install.sh```
-# Cách Vào Tool Bằng Termux
-* ```git clone https://github.com/ViDucHung2006/VxHSX```
-* ```cd VxHSX```
-* ```unzip ddos.zip```
-* ```Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH```
-* ```bash install.sh```
+# Setup
+```sh
+CentOS:
+yum install git -y
+yum install golang -y
+yum install perl -y
+yum install python2 -y
+yum install python3 -y
+yum install python3-pip -y
+yum install nodejs -y
+yum install npm -y
+
+Debain, Ubuntu:
+sudo apt-get install git -y
+sudo apt-get install golang -y
+sudo apt-get install perl -y
+sudo apt-get install python3 -y
+sudo apt-get install python2 -y
+sudo apt-get install python3-pip -y
+sudo apt-get install nodejs -y
+sudo apt-get install npm -y
+
+How to use: 
+- Recommended in shell of google, azure,...
+- Using vps with high speed will be stronger
+
+git clone git clone https://github.com/ViDucHung2006/VxHSX
+cd VxHSX
+npm i requests
+npm i https-proxy-agent
+npm i crypto-random-string
+npm i events
+npm i fs
+npm i net
+npm i cloudscraper
+npm i request
+npm i hcaptcha-solver
+npm i randomstring
+npm i cluster
+npm i cloudflare-bypasser
+pip3 install -r requirements.txt
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+apt-get install ./google-chrome-stable_current_amd64.deb
+ulimit -n 999999
+chmod 777 *
+unzip ddos.zip
+Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH
+python3 vdh.py
+```
 # Group Telegram 
 * https://t.me/+k5f6Pq8bdR0xMDM9
 # Contact Me 
