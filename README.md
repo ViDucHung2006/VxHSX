@@ -21,7 +21,7 @@
 * ```Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH```
 * ```bash install.sh```
 # Group Telegram 
-* 
+* https://t.me/+k5f6Pq8bdR0xMDM9
 # Contact Me 
 * Telegram: @viduchung06
 * Zalo: 0359822840
