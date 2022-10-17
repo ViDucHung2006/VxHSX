@@ -34,7 +34,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone git clone https://github.com/ViDucHung2006/VxHSX
+git clone https://github.com/ViDucHung2006/VxHSX
 cd VxHSX
 npm i requests
 npm i https-proxy-agent
