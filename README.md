@@ -54,9 +54,11 @@ apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 unzip ddos.zip
-Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/PassVxH
+Nhập Password 
 python3 vdh.py
 ```
+# Password Lấy Tại
+* http://traffic1s.com/PassVxH
 # Group Telegram 
 * https://t.me/+k5f6Pq8bdR0xMDM9
 # Contact Me 
