@@ -67,10 +67,9 @@ python3 vdh.py
 * Facebook: @Viduchung.06
 
 # Donate 
+* BTC: bc1qefl0awk7pjsylc8pct7lf8ypkxwet5rdg8p470
 * Momo: 0359822840 <br>
 CTK: Vi Đức Hùng 
-* Tsr: 0359822840 <br>
-CTK: Vi Hùng
 * SHB: 0000190506 <br>
 CTK: VI DUC HUNG 
 
